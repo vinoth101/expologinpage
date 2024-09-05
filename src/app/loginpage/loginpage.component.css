@@ -1,0 +1,16 @@
+#container{
+    float: left;
+            background: black;
+                        width: 30%;
+            height: 100vh;
+}
+#formcontainer{
+    float: right;
+    background:white;
+    width: 70%;
+    height: 100vh;
+}
+
+span{
+    color: red;
+}
